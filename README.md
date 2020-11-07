@@ -13,3 +13,5 @@ change
 No you
 Merge
 Hellllooooooooo
+Merge conflict
+Normal Hello
